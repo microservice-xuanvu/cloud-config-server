@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cloud.config.server.git.uri",
+      "type": "java.lang.String",
+      "description": "Description for cloud.config.server.git.uri."
+    }
+  ] }
